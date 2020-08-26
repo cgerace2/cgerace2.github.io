@@ -1,0 +1,74 @@
+body {
+	margin:0;
+	background:purple;
+}
+ 
+ header {
+	background: red;
+	color: white;
+	padding: 20px;
+}
+
+header h1{
+	margin: 0;
+	display: inline;
+	font-size: 50px;
+	
+}
+
+nav ul {
+	margin: 5px;
+	padding: 5px 15px;
+}
+
+nav ul li {
+	background: black;
+	color: white;
+	display: inline-block;
+	margin: 5px 10px;
+	padding: 5px 15px;
+	
+}
+
+#kfc {
+	max-width: 100px;
+	float: right;
+} 
+
+section h1{
+	margin: 25px;
+	display: inline;
+	font-size: 40px;
+	color: white;
+}
+
+section dl{
+	margin:  15px 20px;
+	padding: 5px 15px;
+}
+
+section dl dt {
+	display: block;
+	background: orange;
+	color: black;
+	margin: 10% 15px;
+	padding: 5px 15px;
+	margin-right: 15px;
+	float: left;
+	clear: left;
+}
+
+section dl dd{
+	color: white;
+	float: left;
+	margin: 10% 15px;
+	padding: 5px 15px;
+	margin-right: 15px;
+}
+
+#pic {
+	position: absolute;
+  	right: 0px;
+  	width: 300px;
+  	padding: 10px;
+}
